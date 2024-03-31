@@ -1,6 +1,8 @@
-.image-container { 
-    display: flex; 
-    justify-content: space-around; 
-    align-items: center; 
-    margin: 20px; 
+ul {
+    list-style: none;
+    direction: none;
+  }
+div { 
+    display: flex;
+
   } 
